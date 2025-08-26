@@ -1,0 +1,18 @@
+[
+    {
+        "package": "ATO",
+        "url": "https://github.com/trackyverse/ATO"
+    },
+    {
+        "package": "atools",
+        "url": "https://github.com/trackyverse/atools"
+    },
+    {
+        "package": "actel",
+        "url": "https://github.com/hugomflavio/actel"
+    },
+    {
+        "package": "TelemetrySpace",
+        "url": "https://github.com/trackyverse/TelemetrySpace"
+    }
+]
